@@ -1,0 +1,11 @@
+ModelFileName: ./Escherichia_coli_str_K_12_substr_MG1655_xml.cmd
+ModelFileName: ./TPI_e_coli_core.cmd
+ModelFileName: ./Escherichia_coli_str_K_12_substr_MG1655_xml.cmd
+ModelFileName: ./TPI_e_coli_core.cmd
+MediaFileName: medialog_0x7fe7bbd9c130
+TotalBiomassFileName: totalbiomasslog_0x7fe7bbd9c130
+ModelFileName: ./Escherichia_coli_str_K_12_substr_MG1655_xml.cmd
+ModelFileName: ./TPI_e_coli_core.cmd
+ModelFileName: ./Escherichia_coli_str_K_12_substr_MG1655_xml.cmd
+ModelFileName: ./TPI_e_coli_core.cmd
+TotalBiomassFileName: totalbiomasslog_0x7fe748371ac0
